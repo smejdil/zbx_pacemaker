@@ -6,6 +6,9 @@ Author: Vadim Ipatov <<vadim.ipatov@zabbix.com>> (<euphoria.vi@gmail.com>)
 ## Requires
 * Zabbix >=3.4 (because the template uses [dependent items](https://www.zabbix.com/documentation/3.4/manual/config/items/itemtypes/dependent_items) and [value preprocessing](https://www.zabbix.com/documentation/3.4/manual/config/items/item#item_value_preprocessing) features that were introduced in 3.4)
 
+## Use
+* Zabbix 4.0
+
 ## Metrics
 | Metric                              | Description                                                                             |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
